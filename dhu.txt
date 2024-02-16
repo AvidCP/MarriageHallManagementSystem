@@ -1,0 +1,41 @@
+log 
+
+
+
+changed the background color of all windows from bg ='rosybrown1' to bg='cyan'
+
+changed the payment details :
+added email on payment confirmation sender ( sending to a particular data node only)
+
+added the check availability function in the hall 
+
+added phone_val for phone number (copied time_val and it was creating problem)
+
+
+added download CSV feature. 
+
+added Email Payment Confirmation Feature 
+
+phone entry was not  clearing up when clear command was clicked, modified the code to clear phone number.
+
+#================Changed the Check availability tab added todays event and upcomming event
+added the functionality to check the date and hall availability on the particular date 
+added the functionality to check the upcomming event of the particular hall on particular selected date
+added the functionality TO CHANGE the upcoming booking entries  according to selected date but limited to show 5 
+
+
+
+
+
+ideas 
+(time taking )
+1- add photos and bring some layout to the hall details. 
+(easy)
+2-  change administrator to Caters Management -  replace the headings from 
+Admin ID -  GST No. 
+Admin Name - Caters Name 
+Joining Date -  Event Date 
+hall - name  = Hall Name
+ADd Admin BUtton -  Submit 
+
+(alternate) -  use admin as the event staff report 
